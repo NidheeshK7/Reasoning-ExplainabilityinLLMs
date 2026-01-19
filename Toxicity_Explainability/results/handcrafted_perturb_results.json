@@ -1,0 +1,52 @@
+[
+    {
+        "original_idx": 14,
+        "original_text": "You cannot increase immigrants 350,000 of them per year\nand expect them :not: to purchase 100,000 cars, Eat less, heat less   J.T.  needs to change his behavior.  CANADA remains Energy poor and politically sad  It's going to get a lot worse.",
+        "perturbed_text": "You cannot increase immigrants 350,000 of them per year\\\\nand expect them :not: to purchase 100,000 cars, Eat less, heat less   J.T.  needs to change his behavior.  CANADA remains Energy poor and politically sad  It's likely to become more challenging.",
+        "original_pred": "TOXIC",
+        "new_pred": "SAFE",
+        "orig_toxic_prob": 0.6843148469924927,
+        "new_toxic_prob": 0.08199074119329453,
+        "success": true
+    },
+    {
+        "original_idx": 19,
+        "original_text": "You forgot that the massive deficit is mainly due to the  \"on the cuff\" Iraq War",
+        "perturbed_text": "It is often forgotten that the massive deficit is mainly due to the  \"on the cuff\" Iraq War",
+        "original_pred": "TOXIC",
+        "new_pred": "SAFE",
+        "orig_toxic_prob": 0.4998527467250824,
+        "new_toxic_prob": 0.10743556171655655,
+        "success": true
+    },
+    {
+        "original_idx": 35,
+        "original_text": "Pure fictional rubbish: it didn't happen.    Kate Taylor is trying to re- position the reality and horror of Dunkirk amongst to-day's snowflake thinking about diversity.",
+        "perturbed_text": "Pure fictional rubbish: it didn't happen.    Kate Taylor is trying to re- position the reality and horror of Dunkirk amongst to-day's sensitive thinking about diversity.",
+        "original_pred": "TOXIC",
+        "new_pred": "SAFE",
+        "orig_toxic_prob": 0.5982698202133179,
+        "new_toxic_prob": 0.00906088575720787,
+        "success": true
+    },
+    {
+        "original_idx": 70,
+        "original_text": "No! You would like to change the subject wouldn't you just to divert attention from your ridiculous  comments.",
+        "perturbed_text": "No! You would like to change the subject wouldn't you just to divert attention from your unusual  comments.",
+        "original_pred": "TOXIC",
+        "new_pred": "SAFE",
+        "orig_toxic_prob": 0.7582327723503113,
+        "new_toxic_prob": 0.37000414729118347,
+        "success": true
+    },
+    {
+        "original_idx": 86,
+        "original_text": "Do you know dumb that comment makes you out to be?",
+        "perturbed_text": "Do peope realize how dumb that comment sounds?",
+        "original_pred": "TOXIC",
+        "new_pred": "SAFE",
+        "orig_toxic_prob": 0.7610058188438416,
+        "new_toxic_prob": 0.0808534249663353,
+        "success": true
+    }
+]

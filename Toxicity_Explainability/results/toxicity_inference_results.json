@@ -1,0 +1,802 @@
+[
+    {
+        "text": "Are you kidding me ? Shannyn Moore admits she doesn't watch Fox news , or any TV news for that matter--then proceeds to lecture us how bad Fox is . Where does she get her information from to knock Fox ? She proves herself to be clueless.  She's not alone. Every liberal tells everyone how terrible and slanted Fox is , yet when you ask how often they watch that channel and they boast they never do.  So how do they know ?  Without getting into Shannyn's pathetic disrespect of our president--she clearly hasn't a clue about the national media and how they are anti-Trump 24 / 7 . A recent study showed 92 percent of all national stories are anti-Trump. In the past the Dispatch ran anti-Trump front page stories 7 days a week. There is littler wonder why he considers the press dishonest--because they are. If Trump found the cure for cancer they'd blame him for doing it to save his own life. Meaningless poll numbers are low because he's knocked 24 / 7 . Moore hates Trump, Fox and conservatives.",
+        "true_label": 0,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.8591986298561096,
+        "prob_safe": 0.13594497740268707
+    },
+    {
+        "text": "There are many, many browny jobs on the line; if ( I'm one of them ) don't become President. A slow boat back to their root's. Clinton loves to surround herself with her bro's and sisters, not that white trash. And I seem to remember America intervening in elections abroad? The CIA throwing money at the candidate that was pro-American? What is good of us, is not good for them? Nothing more than a ploy by ( stay at home and bake cookies ) Clinton, to discredit Trump.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9870109558105469,
+        "prob_safe": 0.011855668388307095
+    },
+    {
+        "text": "Do you even know what you are talking about? Nixon announced the opening to China in 1971. He was never impeached, but he resigned in 1974 ahead of possible impeachment. Ford never appointed Nixon as ambassador to China. The first ambassador to the People's Republic of China,  Leonard Woodcock, \n was appointed in 1979 by Carter.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.0010652876226231456,
+        "prob_safe": 0.9914637207984924
+    },
+    {
+        "text": "Baldwin was not the one being goofy.",
+        "true_label": 1,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.0003989750402979553,
+        "prob_safe": 0.9937206506729126
+    },
+    {
+        "text": "\"Why do we have to have ignoramuses running the US government? (starting, of course, with the head ignoramus, D.J. Trump)\"\n\nBecause arguably half or more of the US population is uneducated compared to the rest of  western civilization. Also there is a huge faction (such as in   Florida) who as they get older and richer, become more corporately selfish and uncaring.  Just like Trump.",
+        "true_label": 1,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.05865936353802681,
+        "prob_safe": 0.9320366978645325
+    },
+    {
+        "text": "If I had made a political statement or protested how police handle blacks while I was being paid for my job, I'd have been fired. Protest on your own time. Besides, they have totally lost the original meaning of the first kneeling and now KIDS are doing it. Some role models these clowns are. \nThey are over-paid anyway - why do we pay them hundreds of thousands while paying teachers, cops and firefighters fractions of that - and people who risk their lives every day at work can't protest and make a fraction of what these protesting jerks make for working part of a year. (playing a GAME, not saving lives)\nAmericans created these idiots - now live with 'em.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9990319013595581,
+        "prob_safe": 0.0007320083677768707
+    },
+    {
+        "text": "I still scan its online headlines just in case they actually contain some \"news\", but repeated absurd opinion pieces articles like this one prompted me to cut my Globe subscription recently, after subscribing for over two decades.  I don't regret the decision at all; if anything, I wonder what took me so long.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 4.806247306987643e-05,
+        "prob_safe": 0.9945061802864075
+    },
+    {
+        "text": "Have we ever seen that before, the words \"Putin\" and \"Democracy\" in the same sentence?\n\nThe two words are so antithetical.\n\nHey, I love this.....\"the dirty liberal leftist rug\"!\n\nThat's hilarious!\n\nSo bitter.\n\nGet this. Write it down. Make a note:\n\n\"Trump will be impeached by his own Republican Congress\"\n\nMcCain will see Trump twisting in the wind.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.8573816418647766,
+        "prob_safe": 0.13779376447200775
+    },
+    {
+        "text": "Touch\u00e9, Brad! Now hide before the Politically Correct Thought Police will get you!",
+        "true_label": 0,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9862433075904846,
+        "prob_safe": 0.013010778464376926
+    },
+    {
+        "text": "Skyrocketing drink prices are making it too expensive to go out. Smartphone apps mean it's easier for people to stay in touch. Dating apps are cutting out the need to mingle in person. Even larger televisions are allowing friends to stay at home and watch sporting events or movies together. \n-------------------\nThe greatest cause of reduced bar visits has to do with the drinking/driving laws. Nobody wants to spend $20 on taxi rides for a couple of drinks. Folks are just doing their drinking at home. Makes total sense.  I haven't been to a bar for a drink for over 10 years. Maybe 20!",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.002018589526414871,
+        "prob_safe": 0.9900064468383789
+    },
+    {
+        "text": "Very well written and informative. However, I would like to challenge the analogy between 'pardon' for Magnus Malan and 'pardon' for JZ. Magnus 'committed' his 'crimes' under a certain political dispensation of the day. JZ is a fraudster and thief, the acts of which were not prescribed by politics.",
+        "true_label": 1,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.011592518538236618,
+        "prob_safe": 0.9803013205528259
+    },
+    {
+        "text": "Ever heard of,Russia,Mexico,Syria ?\nWhat a ridiculous statement !",
+        "true_label": 1,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.022824743762612343,
+        "prob_safe": 0.9705327749252319
+    },
+    {
+        "text": "Those who presume to revise history generally do so in a way that shines a favorable light on themselves. But thanks for clarifying why you have such an obnoxiously superior attitude about yourself.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.8039785027503967,
+        "prob_safe": 0.18800105154514313
+    },
+    {
+        "text": "If you find out, let me know. Didn't get a dime for my efforts. So who owes me $1500 for being a patriot, who cares about my fellow Americans, and my country.",
+        "true_label": 0,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.7911017537117004,
+        "prob_safe": 0.2031717300415039
+    },
+    {
+        "text": "You cannot increase immigrants 350,000 of them per year\nand expect them :not: to purchase 100,000 cars, Eat less, heat less   J.T.  needs to change his behavior.  CANADA remains Energy poor and politically sad  It's going to get a lot worse.",
+        "true_label": 0,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.6843148469924927,
+        "prob_safe": 0.30844488739967346
+    },
+    {
+        "text": "I got that note too. Just vote \"Yes and Yes\" about 5 times and they will go away. Then you can go back to voting truthfully.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.00047288546920754015,
+        "prob_safe": 0.9918138980865479
+    },
+    {
+        "text": "I really don't think it was appropriate of him to mock Barbie like that.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.00015646791143808514,
+        "prob_safe": 0.9951646327972412
+    },
+    {
+        "text": "Your forgot the worthy Mr. Chong.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.014398444443941116,
+        "prob_safe": 0.9783526659011841
+    },
+    {
+        "text": "If this scumbag is dead. It is the end of their diabolical Religion. He is their prophet and not suppose to die until the blood of Israel runs in the streets. \nFor all who followed this scumbag...you are cleared to eat pork and resume a life of peace with Jesus.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9912596344947815,
+        "prob_safe": 0.007931574247777462
+    },
+    {
+        "text": "You forgot that the massive deficit is mainly due to the  \"on the cuff\" Iraq War",
+        "true_label": 0,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.4998527467250824,
+        "prob_safe": 0.4921032786369324
+    },
+    {
+        "text": "One need only listen to the rhetoric of certain candidates for the leadership of the Conservative party to realize we are not so different.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.00030846125446259975,
+        "prob_safe": 0.994227409362793
+    },
+    {
+        "text": "And your comments to Hab fans mean nothing..  Stay in the Nation of losers.....",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9998064637184143,
+        "prob_safe": 7.84288567956537e-05
+    },
+    {
+        "text": "These scums will not be forgotten.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.999894380569458,
+        "prob_safe": 3.0239678380894475e-05
+    },
+    {
+        "text": "Or pumpkins!",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 1.998599873331841e-05,
+        "prob_safe": 0.9920531511306763
+    },
+    {
+        "text": "A person does not need to be a Trump fan to see through a pack of swindlers peddling a new belief system. to suck money out of those that have it.  \n\nThe belief system being peddled may or may not be credible, but the solutions offered are completely bogus.  There is not a lick of evidence that carbon taxes or cap-and-trade arrangements produce a material change in consumption.  \n\nWhat there is abundant evidence of, is that governments love to raise new taxes, and they are experts in devising methods to ensure that those new taxes follow a path that helps keep them in power.\n\nYes, you should know better!",
+        "true_label": 1,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.46363338828086853,
+        "prob_safe": 0.5253654718399048
+    },
+    {
+        "text": "\"Merriam-Webster sums up 2016 in one word: surreal \"\n\nNo, 5hite!!",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 9.997388406191021e-05,
+        "prob_safe": 0.992551326751709
+    },
+    {
+        "text": "E.G.:  The problem is that if you want budget cuts you have to focus on the highest expense items.  In Alaska the top three are Medicaid, Health and Human Services and education.  Any budget reduction will impact these areas.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 3.5122702684020624e-05,
+        "prob_safe": 0.9933592677116394
+    },
+    {
+        "text": "The Current occupant of the white house is a Pathological Narcissist/Sociopath who is mendacious and a threat to all. His speech to the UN was an utter disgrace.",
+        "true_label": 1,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.42177870869636536,
+        "prob_safe": 0.5675653219223022
+    },
+    {
+        "text": "Of course they do Roy! All you do is laugh. Smoke another joint, the rest of us will take care of America while you're in La La Land!",
+        "true_label": 0,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.999778687953949,
+        "prob_safe": 6.921130261616781e-05
+    },
+    {
+        "text": "The Greens regularly gather over 5% of the popular vote which ought to be a good enough metric of its level of support, No? The NDP gets far more than that and I don't care about the bloc.\n\nA vote is not tied to one's income on amount of property owned, the vast majority of citizens get one. Making party funding dependant on raising funds from its members takes us back to the bad old days when you had to have money to get a voice at all!",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.0007050365675240755,
+        "prob_safe": 0.9927654266357422
+    },
+    {
+        "text": "So you want Canada to become the repository for criminals, fugitives, all the scum of the Earth, no questions asked?\nHow enlightened of you.\nAre you maybe one of those?",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9991355538368225,
+        "prob_safe": 0.000646062137093395
+    },
+    {
+        "text": "Every additional immigrant is threatening our comfort: More fishermen than fish, housing shortage, bumper to bumper traffic, no parking, the darn rail expenses, it is getting horrible.",
+        "true_label": 1,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.0021352889016270638,
+        "prob_safe": 0.991507887840271
+    },
+    {
+        "text": "For whatever its worth, mountain bikers by a large majority, raise money for trail repairs and expansion, volunteer to clean and maintain trails and generally bring a lot of money into communities where they ride - much more so than hikers.  \n\nIf you are asking us to chose between one or the other, I'm going to choose mountain bikers.\n\nMy preference is that everyone learn to share and be courteous to others - whether on bike or on foot.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.0003231108421459794,
+        "prob_safe": 0.9937544465065002
+    },
+    {
+        "text": "True, but not as much as the shitheads who pack illegals into a hot trailer and drive them to their deaths.  I have driven for hire and I ALWAYS knew my cargo, as you are required to have shipping papers/bill of lading for what you are transporting.  I was hauling explosives, and radioactive materials, so I know what is required.  This driver was a human smuggler.  He knew what his cargo was. HE AND THE COMPANY HE WORKED FOR IS RESPONSIBLE.  PERIOD.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9949430823326111,
+        "prob_safe": 0.004465742968022823
+    },
+    {
+        "text": "I've been sort of paying attention to this issue for a while, and being a dedicated jerk, my natural tendency is to think that maybe the students are just stupid ... but what about depression and lethargy, due to lack of sunlight during the winter months? Maybe your kids aren't stupid, but simply need sunlight, some vitamin-C?\nMaybe Florida does better because there is a lot more sunlight there? Alaska seems to have the most depression related events, and general feelings of not wanting to do anything during winter. Well, could poor grades be a depression and lethargy related thing?\nIt would be an easy theory to test. Choose one school, install UV lighting, and see if grades improve. Maybe toss in vitamin-C supplements with lunches? Wouldn't cost anywhere as much as some of the other possible solutions.",
+        "true_label": 1,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.0005241566686891019,
+        "prob_safe": 0.9931783676147461
+    },
+    {
+        "text": "Pure fictional rubbish: it didn't happen.    Kate Taylor is trying to re- position the reality and horror of Dunkirk amongst to-day's snowflake thinking about diversity.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.5982698202133179,
+        "prob_safe": 0.39235493540763855
+    },
+    {
+        "text": "I found an article this morning when doing the study I promised titled \"Democracy's Road to Tyranny\" (https://fee.org/articles/democracys-road-to-tyranny/).  I've not heard of the site, the Foundation for Economic Education but it appears to be of a more conservative bent.  \nI'm not sure that democracy and totalitarianism are the two ends of a continuum; I would think anarchy on the one side and absolute monarchy on the other; both can be tyrannical thought the former usually dissolves into a dictatorship as a strong-man emerges.  An absolute monarchy, like Saudi Arabia, cannot be classified as either a dictatorship nor a democracy and wouldn't fit on a continuum with those as the polar options.  To be honest, I'm not even sure that a continuum can accurately represent the variety of forms that a government can take.  I do think that the economic systems are classified correctly.  The third option, distributism, is not really a viable option and is only theoretical, as I understand it.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.00016020778275560588,
+        "prob_safe": 0.9953469634056091
+    },
+    {
+        "text": "Who gives a sh.. it is a known drug running route, moron. As long as the scum are caught hopefully are thrown out of this country who cares? Are you afraid of losing your meth connection?",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9997978806495667,
+        "prob_safe": 3.8824768125778064e-05
+    },
+    {
+        "text": "The Federal Government and the liberals in the Dept. of Education and the teaching profession already got to the millenials from the early age of 5.  They've had the kids nearly 8 hours a day, filling their head with liberal, secular propaganda.  They are brainwashed.  \n\nSo now, faced with the biggest enemy of the Catholic Church, the US education system, the Church is now asking the brainwashed youth about how the Church should move forward?  Inane stupidity.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9948602318763733,
+        "prob_safe": 0.004607117269188166
+    },
+    {
+        "text": "Jjfoxy\nDo you want to fact check Trump and see how absolutely ridiculous your statement is? Easy Peezy on any non partisan website. It will show all lies, retractions, apologies etc. researched data. I could print them out, but you need to see it for yourself, hence, choose your own NONPARTISAN website.",
+        "true_label": 1,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.014159241691231728,
+        "prob_safe": 0.9772500395774841
+    },
+    {
+        "text": "\"Methods could include no-fishing zones, cutting pollution in coastal seas, finding ways to eradicate non-native fish species or limits on scuba-diving tourism...\"\n\nOverfishing, introducing feral species & pollution are now the results of climate change? We're really starting to grasp at straws now.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.058843858540058136,
+        "prob_safe": 0.934968113899231
+    },
+    {
+        "text": "Since you, apparently, can't understand my vocabulary and your mind is locked down in rigid ideology, anything further is useless.  I rest my case because you and the following fellow idiots are uneducable.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9997245669364929,
+        "prob_safe": 0.0001141039829235524
+    },
+    {
+        "text": "All a reporter has is a cop report. And because this is a fatality hit and run, there won't be much there. About what you have here. An ID of the victim will be made but that's about it. And if the suspect has an attorney there won't be anything else until the trial.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.0006125196814537048,
+        "prob_safe": 0.99272221326828
+    },
+    {
+        "text": "Every time you think you've seen peak stupidity out of this crew, they get dumber.\n\n Our democracy may remain intact not through the action of even a single non-crooked Republican lawmaker, but because the crew threatening it apparently alternates their strategy meetings with huffing paint vapors.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9272881150245667,
+        "prob_safe": 0.06930480897426605
+    },
+    {
+        "text": "Dunn was left holding the bag - the company was effectively ruined/bankrupt by the time he took over and made a valiant effort to recover.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 4.688179251388647e-05,
+        "prob_safe": 0.9930803179740906
+    },
+    {
+        "text": "\"......requires that an adult convicted of a first-degree sex crime against a victim younger than 12 must serve a minimum of 25 years behind bars....\"",
+        "true_label": 1,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.0022213326301425695,
+        "prob_safe": 0.9919471144676208
+    },
+    {
+        "text": "\"Some simply find it wrong to pluck fish out of the ocean and send them mostly to the mainland for people to watch swim in a tank.\"  There is another issue here.  Many, if not most, of the fish captured for our entertainment die because of stress or poor care.  What does it say about DLNR that they support an industry that results in these fish dying under these conditions?  At what point should there be a concern, shared with many (if not all) states, about wastage?",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.007762241177260876,
+        "prob_safe": 0.9853737354278564
+    },
+    {
+        "text": "There have been many appeals to avoid throwing the baby out with the bathwater, and there is some merit in taking a sober view on things.\n\nHowever, if its a case of \"meet the new leadership, who are ducking and diving, just like the old leadership\", then the whole cancerous body need to be made a very firm, dramatic, and hard example of, otherwise we will continue down the path of allowing ducking and diving to escape consequences, and there will be no deterrent for other companies to just do the same stuff.\n\nOn that note, what's happening with SAP and CA?\n\nThings seem to have gone remarkably quiet on those fronts?\n\nIt's great we have dealt with Bell Pottythingy, are currently dealing with KPMG, and have started dealing with McKinsey, but lets make sure SAP and CA aren't quietly trying to slip into the shadows.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.008387456648051739,
+        "prob_safe": 0.9847248196601868
+    },
+    {
+        "text": "He self-funded the primary race. Quit putting a \"t\" in front of \"rump.\" It is hateful and rude.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.11004210263490677,
+        "prob_safe": 0.879178524017334
+    },
+    {
+        "text": "Salt Lake City's finest. Just another typical thug with a badge. He'll keep his job.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9996824264526367,
+        "prob_safe": 0.0001823299244279042
+    },
+    {
+        "text": "You sure jinxed that scoring streak, didn't you.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 5.70089541724883e-05,
+        "prob_safe": 0.9933450222015381
+    },
+    {
+        "text": "You're trolling someone else's account.",
+        "true_label": 0,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.8046726584434509,
+        "prob_safe": 0.1881633847951889
+    },
+    {
+        "text": "So the voters in Lac-Saint-Jean are \"stupid\"?",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9998186230659485,
+        "prob_safe": 8.887262811185792e-05
+    },
+    {
+        "text": "All the negative banter! I just found out I'm a sketchy, tattooed druggie! I have a degree, an active in the community and work at your cherished grocery store. The regulars and the owners enforce love and compassion and community. Those loud shows are frequently benefits for people in need. \u2764\ufe0f I'm glad we are breaking up with Alberta. Good riddance to your way of perceiving what community means for all of us, not just you.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.011230935342609882,
+        "prob_safe": 0.9798720479011536
+    },
+    {
+        "text": "Hard evidence and direct accusation of China's involvement =>not even a squeak from the government.  Innuendo of Russia's involvement and no evidence rather than wishful thinking form mainstream media - all hell breaks loose, endless stories of Russian meddling, anti-democratic policies, \"aggression\", etc. Hypocrites.",
+        "true_label": 1,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.0012191567802801728,
+        "prob_safe": 0.9935500621795654
+    },
+    {
+        "text": "But you couldn't stay away now  could you Buchannon?",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.1901082694530487,
+        "prob_safe": 0.8003857135772705
+    },
+    {
+        "text": "Carl Z. is so stuck on stupid.  Trump and Duterte are \"two of a kind\" because Trump wants to meet with him?  What a Bozo.  Oh, Obama talks with the mullahs in Iran and gives them $150 Billion and that's OK.  Never mind Iran is the world's largest state sponsor of terror.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9890372157096863,
+        "prob_safe": 0.010003970004618168
+    },
+    {
+        "text": "I think the original \"goal\" of rail is long gone and buried. \n\nThe current goal is to enhance property values for mainland real estate developers, Ala Moana Shopping Center, and for Territorial Savings to sell more financing for \"TOD\" projects and mortgages.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.15051281452178955,
+        "prob_safe": 0.8394930362701416
+    },
+    {
+        "text": "Republicanos tickle my tummy and make giggle. Te he. They have been trained to speak a form of English. Te he!",
+        "true_label": 1,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 9.028414206113666e-05,
+        "prob_safe": 0.9921695590019226
+    },
+    {
+        "text": "Shhhhhh.....",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.0008165411418303847,
+        "prob_safe": 0.9911683797836304
+    },
+    {
+        "text": "When I was growing up democrats were known to start wars while republicans were known to start recessions.  It seems that since Uncle Ron, republicans have started both.  I suspect that if Hillary became president I would be marching against her due to her hawkish policies.  \n\nThe underlying truth is that the economy generally does better under a democratic president.  I think the only reason it is doing well under the Donald so far is that he hasn't been able to do anything.  But can this continue?  I doubt it.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.00243668002076447,
+        "prob_safe": 0.9907369017601013
+    },
+    {
+        "text": "The US should have shot him in the field.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9997069239616394,
+        "prob_safe": 0.000191084822290577
+    },
+    {
+        "text": "You are racist...and that person is right on...",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9999048709869385,
+        "prob_safe": 1.290484669880243e-05
+    },
+    {
+        "text": "There are fiscal \"conservatives\" in the Democratic Party already.  Start with Sylvia Luke.  Fukumoto did the thing that her conscience dictated after the barrenness and cruelty  of the local Republican Party became intolerable.  Trump's hatred for America also was disturbing to her.  I salute her for dong what her conscience called for.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.014365196228027344,
+        "prob_safe": 0.9760934710502625
+    },
+    {
+        "text": "This guy zinke and the rest of this administration is so full of methane. Once a human fracking nozzle is invented our country's energy needs could solved!",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.01215269137173891,
+        "prob_safe": 0.980610728263855
+    },
+    {
+        "text": "Racist jerk.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.999883770942688,
+        "prob_safe": 2.373514507780783e-05
+    },
+    {
+        "text": "His more recent movies, Fury, Man Down, and American Honey have done well. Guy might be a jerk when drunk -many people are - but he is successful and worth about 25 M. So why the animosity here? Just schadenfreude? Lots of your favorite actors are not wonderful people.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.0016018179012462497,
+        "prob_safe": 0.993095338344574
+    },
+    {
+        "text": "Nobody is worried about the Trump character. Cut the crap, dummy.  Except for  insane leftists lunatics like you and your friends - political hacks who are pretending to be journalists.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9996765851974487,
+        "prob_safe": 0.00016601233801338822
+    },
+    {
+        "text": "The \"Hearing Protection Act\" makes it easier to obtain silencers?\nThe GOP is just trolling us now, isn't it.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.002785167656838894,
+        "prob_safe": 0.991588294506073
+    },
+    {
+        "text": "A different kind of reporting?  Like you used for the past 8+ years under Dear Leader Obama?  As I recall, there were two rules to that kind of reporting:\n1.  Always kiss his butt.\n2.  When in doubt, refer to Rule #1.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9921240210533142,
+        "prob_safe": 0.007341903168708086
+    },
+    {
+        "text": "No! You would like to change the subject wouldn't you just to divert attention from your ridiculous  comments.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.7582327723503113,
+        "prob_safe": 0.23488955199718475
+    },
+    {
+        "text": "No, we didn't, and no, we don't.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 1.1857523531944025e-05,
+        "prob_safe": 0.9934113621711731
+    },
+    {
+        "text": "The father at least had the decency to confess. The mother probably claims her innocence. Without confessing, any case like this might be very hard to try without proof...it's been 10 years since the last act. Thank God he admitted his guilt. Proof to me of her guilt (in whatever capacity) is that she once again is choosing her husband over her victimized daughter and other her other 11 children. Imagine sitting in the courtroom on his side while your entire family is on the other side supporting the victim! That is an amazing family...with some seriously jacked up parents. Poor kids.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.20724360644817352,
+        "prob_safe": 0.782129168510437
+    },
+    {
+        "text": "Would give major props to Trudeau if he retaliated by giving notice to leave NAFTA. We are clearly dealing with a psychopath and we should strike first.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9988459348678589,
+        "prob_safe": 0.0008967085159383714
+    },
+    {
+        "text": "Get a clue.  Our governor is the coward.  Money coming in the door from oil revenues drops by over 50%.  So the state budget should be cut by 50%.  But our coward governor doesn't do the tough job of cutting state fat.  Instead he steals $1100 from every Alaskan to fund the fat.  And then he tours Assembly meetings playing the victim of the legislators.  Walker can't be recalled soon enough.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.72245854139328,
+        "prob_safe": 0.2699630558490753
+    },
+    {
+        "text": "What reason could there be to keep home owners from using their water? If you don't own a well, it's insignificant to you, isn't it? Well, lots of people do and when you maintain a well, the pump and all that goes into it, and need the water because human beings need water, then there is no reason at all to oppose allowing rural homeowners one of their inalienable rights granted in the US Constitution. Life.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.004263678099960089,
+        "prob_safe": 0.9877650141716003
+    },
+    {
+        "text": "Still trying to figure out why Brad Ausmus waited until after Cargo's PH sac fly to bring in his LH reliever, given Cargo's well-documented struggles against lefties (.536 OPS - yikes!) this year.  Ausmus was either asleep at the switch or he figured that if he went to the lefty, Black would counter with Pat Valaika as the PH. Not sure that would have happened, given Bud's seemingly undying confidence in Cargo.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.0006315891514532268,
+        "prob_safe": 0.992134690284729
+    },
+    {
+        "text": "IRT Clifton T. Johnson.  Perhaps this view is his life's culmination over an insecurity for living up to the name \"Johnson.\"  Cannot on your own?  Okay, get \"subsidi--sized.\"",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.4408232271671295,
+        "prob_safe": 0.5486133694648743
+    },
+    {
+        "text": "You people are shopping for Avocado's? Here on the Big Island, I give my Avocados away to my neighbors, I can't eat all that my tree's produce. Many people have nice landscaping beautiful yards...Me, I grow food, after all you can't eat a Snow Bush, or Palm tree's.When it is in season I am usually over filled with fresh veggies, and fruit's, like Tangerines, Water Apple's 2 types of Lychee. Pine Apples, Oranges, Papaya's, I have never thought of selling, I would rather see smile's on my neighbors faces. But that's not the point here. Amazon did a good thing, just show's you how much profit the store was making before Amazon took over. PRIME.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.0012480810983106494,
+        "prob_safe": 0.9935601949691772
+    },
+    {
+        "text": "They have been \"gunning\" for Day ever since he opted out of performing gay marriages.  To charge someone for felony charges stemming from the circumstances described is an abomination.  The DA or other official who filed those charges is guilty of profound abuse of the legal system.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.04777027666568756,
+        "prob_safe": 0.9446161389350891
+    },
+    {
+        "text": "If I was his neighbor I'd want the wack job locked up. I wouldn't need a stray bullet from that idiot blasting into my home with the chance of killing or maiming me or my family. Fricking morons like this get all of us law abiding gun owners painted with the same brush.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9990847110748291,
+        "prob_safe": 0.0006770328618586063
+    },
+    {
+        "text": "Why didn't the Democrats pass gun legislation when they had the chance? Bunch of useless morons. You need guns to protect and defend yourself or else.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9994736313819885,
+        "prob_safe": 0.0003300879034213722
+    },
+    {
+        "text": "Had not been enforceable for many many years.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.00012967710790690035,
+        "prob_safe": 0.9948627352714539
+    },
+    {
+        "text": "There appears to be about 30-40% of trumps' voters who are racist fools.  That swung the election for trump.\n\n(I am sure that you did not notice that! *eye roll*)",
+        "true_label": 1,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.12121251970529556,
+        "prob_safe": 0.8680899739265442
+    },
+    {
+        "text": "It's hard to think of Liberty as an \"offshore\" oil development.  There is a huge causeway that goes past it on the way to Endicott.  In the summer they even have Endicott Causeway fun runs that go past the pad where Liberty drilling will be staged.  The pad itself has high berms surrounding it to prevent spills from reaching the water.  So it's hard to think of Liberty as \"offshore\" when you can drive, run or walk to it.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 8.885165880201384e-05,
+        "prob_safe": 0.9918038845062256
+    },
+    {
+        "text": "\"Standing up to Russia\"\n\nWhat the hell do you think you are talking about?  I've seen your posts before.  You're too smart to believe that crapola. Why are you playing the fool?",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.914359986782074,
+        "prob_safe": 0.08243204653263092
+    },
+    {
+        "text": "Do you know dumb that comment makes you out to be?",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.7610058188438416,
+        "prob_safe": 0.23209364712238312
+    },
+    {
+        "text": "Don't forget the other fool named Mr. Anderson.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9105006456375122,
+        "prob_safe": 0.08602342009544373
+    },
+    {
+        "text": "The left will try any lie, to stop\nthemselves from owning up for\ntheir murdering ways. If they\nthink the people who democratically\nput Trump in power will lay down\nwhile the left rapes the working man,\nI'll be laughing my azz off, while all\nthe crap comes down. I'll sit back and\nenjoy watching their fairy tale world \nimplodes.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9969900846481323,
+        "prob_safe": 0.00263067614287138
+    },
+    {
+        "text": "Why didn't they not get this done with Obama?\n\nDid Pax Christi support the Iran deal?  North Korea?\n\nIf so, they are being disingenuous to bring this matter to Trump.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.034929193556308746,
+        "prob_safe": 0.9589346647262573
+    },
+    {
+        "text": "Your proud incompetence is a liability to public health. Have you seen what polio and small pox does to children? You are one pathetic loser.",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9998762607574463,
+        "prob_safe": 1.4969454241509084e-05
+    },
+    {
+        "text": "Bernstein is just another paid political hack who says what he is told to say and does so to maintain his salary and status; which he fears loses to a Trump Presidency.  He's an old useless worthless tool of the left",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9944185018539429,
+        "prob_safe": 0.004979269113391638
+    },
+    {
+        "text": "You do realize my comment was in response to the following  above \"Actually, what we'll have is a bunch of engineer drones who can't properly form a thought in their heads and will find it much more convenient to let others think for them\".  I'm not saying other studies don't require higher Intelligence, just that higher intelligence  is a necessity for a Degree in say any of the engineering fields.   That is a fact.",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.0003865229373332113,
+        "prob_safe": 0.9932659864425659
+    },
+    {
+        "text": "At least \"The Big O\" (O'Leary) isn't claiming Trudeau had spies \"wiretapping\" the PMO before the last election. Bernier's campaign may be cheating? Tsk, tsk. Those darned \"me first\" libertarians without scruples!",
+        "true_label": 1,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.0005201013409532607,
+        "prob_safe": 0.9932236671447754
+    },
+    {
+        "text": "It is a crazy world where it is supposed to be huge offense and  \"sexual misconduct\" to \"leer\" at and call a female \"hot chocolate\". Bloodless wimps do not understand a real man's  hormones. But painted women looking like harlots are OK to dangle their half naked bodies with surgically enhanced breasts like a bait in front of men?",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9971959590911865,
+        "prob_safe": 0.0024718018248677254
+    },
+    {
+        "text": "you should check to see if your local college has an intro course on logic.  your post is non sensical to suggest that atheism requires proof",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.0022248849272727966,
+        "prob_safe": 0.9935333728790283
+    },
+    {
+        "text": "Wow, over 130 comments.  To the naysayers, keep it up, for every idiotic comment you make there comes about 5 rational comments.  To those that actually added to the conversation in a NON moronic way (and that excludes me, darn it) goodonya.",
+        "true_label": 1,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 0.07199481129646301,
+        "prob_safe": 0.9191681742668152
+    },
+    {
+        "text": "A well-balanced game by both, congrats to Buds for the well-deserved victory!",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 1.8925727545138216e-06,
+        "prob_safe": 0.9943177103996277
+    },
+    {
+        "text": "\"Roomy walk-in (or be dragged in) closets\"",
+        "true_label": 0,
+        "model_output": "SAFE",
+        "pred_label": 0,
+        "prob_toxic": 8.686536602908745e-06,
+        "prob_safe": 0.9947152733802795
+    },
+    {
+        "text": "Enough already... He won by 25% more electoral votes because Hillary Clinton was a liar as well as a crook. Your three million whine is in a state Trump never campaigned! \n\nNow if you want to compare lies:\nFast & Furious / IRS Targeting / Benghazi You-Tube / You can keep your doctor / The Iran deal will stop them from getting nuclear weapons / We gave no money to them / Your premium will go down an average of $2500 dollars / We have many shovel ready jobs / This money will get the economy rolling / If you like your plan, you can keep your plan / I did the same thing every other official has done / We just talked about our grandchildren on the tarmac / We didn't take those phone records / That cop did a stupid thing / I didn't know she had a private email server / We didn't spy on the AP reporters / This is not amnesty / The prisoner swap was a good deal / I am proud of Seal Team 6 / The use of Czars is nothing new / We aren't stopping Arizona from enforcing their laws...NoMoSpace",
+        "true_label": 1,
+        "model_output": "TOXIC",
+        "pred_label": 1,
+        "prob_toxic": 0.9154119491577148,
+        "prob_safe": 0.07998780161142349
+    }
+]
